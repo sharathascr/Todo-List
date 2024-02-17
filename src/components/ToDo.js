@@ -1,11 +1,8 @@
-import React, { useState } from 'react'
-import './styles/ToDo.css'
-import ToDoForm from './ToDoForm'
-import EditToDoForm from './EditTodoForm';
+import React from 'react';
+import './styles/ToDo.css';
 
 function ToDo({task,toggleCompleted,deleteTodos,editTodos}) {
-
-    // console.log(task);
+  
   return (
     <div className='todo'>
         <table>
