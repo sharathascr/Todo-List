@@ -1,0 +1,7 @@
+.updateBtn{
+    margin: 4px;
+    color: rgb(212, 0, 255);
+    background-color: transparent;
+    border: 2px solid rgb(212, 0, 255);
+    border-radius: 4px;
+}

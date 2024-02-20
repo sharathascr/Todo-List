@@ -1,3 +1,8 @@
-/* .todowrapper{
-    background-color: #221660;
-} */
+.todowrapper{
+    width: 50%;
+    margin: auto;
+    /* background-color: rgb(147, 62, 226); */
+}
+input{
+    
+}

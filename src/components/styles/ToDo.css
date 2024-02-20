@@ -1,7 +1,19 @@
 .todo{
-    width: 25%;
+    width: 50%;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.editBtn{
+    color: rgb(64, 64, 236);
+    background-color: transparent;
+    border: 2px solid rgb(65, 65, 209);
+    border-radius: 4px;
+}
+.deleteBtn{
+    color: red;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 4px;
 }

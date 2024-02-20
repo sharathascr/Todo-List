@@ -1,0 +1,8 @@
+.saveBtn{
+    margin: 4px;
+    background-color: white;
+    color: rgb(4, 77, 4);
+    border: 2px solid green;
+    outline: none;
+    border-radius: 4px;
+}
