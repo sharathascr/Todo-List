@@ -22,7 +22,11 @@ function EditToDoForm({ editTodo, task }) {
         <button className="updateBtn" type="submit">
           Update
         </button>
-        <button className="cancelBtn" type="cancel">
+        <button
+          className="cancelBtn"
+          type="cancel"
+          style={{ border: "1px solid red", background: "transparent" }}
+        >
           Cancel
         </button>
       </form>
